@@ -49,7 +49,7 @@ This Project is on Augmented Reality In this we Teach Kids Alphabet and Numbers 
 * Interactive
 * Colourful
 * Different Languages
-* 
+ 
 This is a AR/VR course project for TECHNISCHE UNIVERSITÄT ILMENAU
 
 
