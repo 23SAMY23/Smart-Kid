@@ -43,7 +43,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This Project is on Augmented Reality In this we Teach Kids Alphabet and Numbers in different Language via Imaage recongination  
+This Project is on Augmented Reality In this we Teach Kids Alphabet and Numbers in different Language via Image recongination  
 
 * Sound
 * Interactive
