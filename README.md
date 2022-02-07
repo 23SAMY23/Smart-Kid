@@ -7,10 +7,10 @@
     <img src="SmartKid/Assets/pics/Capture.PNG" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Meet & Greet in MR</h3>
+  <h3 align="center">Smart Kid</h3>
 
   <p align="center">
-    A Virtual Reality and Augmented Reality Multiplayer Application 
+    A Augmented Reality Application for Kids 
     <br />
   </p>
 </p>
@@ -47,23 +47,20 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This Project has two part one for Virtual Reality and other for Augment Reality so in the given tasks 
+This Project is on Augmented Reality In this we Teach Kids Alphabet and Numbers in different Language via Imaage recongination  
 
-* Create a multiuser (multiplayer) environment[✓]
-* Create a multiuser AR environment[✓]
-* Create a multiuser VR environment[✓]
-* Combine both environments[✓]
-* Create virtual avatars[✓]
-* Create the possibility to chat with other people (text, speech)
-* (Optional) Record gestures of VR and AR people to show something in the world.[✓ Only for VR press Y on oculus left controller and press Y again to save the recording]
-
-This is a Media Project for TECHNISCHE UNIVERSITÄT ILMENAU
+* Sound
+* Interactive
+* Colourful
+* Different Languages
+* 
+This is a AR/VR course project for TECHNISCHE UNIVERSITÄT ILMENAU
 
 
 ### Built With
 
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Unity3D 2020.3.14f1](https://unity3d.com/get-unity/download)
+* [Unity3D 2019](https://unity3d.com/get-unity/download)
 * [VisualStudio 2019](https://visualstudio.microsoft.com/downloads/)
 
 ### Project Settings
@@ -77,17 +74,10 @@ Augmented Reality Screenshot
 <!-- GETTING STARTED -->
 ## Getting Started
 
-* [AR project](https://github.com/23SAMY23/Meet-and-Greet-MR/tree/main/Meet%20%26%20Greet%20MR%20(AR))
-* [AR andriod apk](https://github.com/23SAMY23/Meet-and-Greet-MR/tree/main/Meet%20and%20greet%20MR%20(AR%20Andriod))
-* [VR project](https://github.com/23SAMY23/Meet-and-Greet-MR/tree/main/Meet%20%26%20Greet%20MR%20(VR))
-* [VR oculus rift build](https://github.com/23SAMY23/Meet-and-Greet-MR/tree/main/meet%20and%20greet%20mr%20(VR%20Oculus%20game))
-### Requirments
+* [Smart Kid](https://github.com/23SAMY23/Meet-and-Greet-MR/tree/main/Meet%20%26%20Greet%20MR%20(AR))
+* [Final Apk](https://github.com/23SAMY23/Meet-and-Greet-MR/tree/main/Meet%20and%20greet%20MR%20(AR%20Andriod))
 
-For Virtual Reality
-* [Oculus Rift Software for Windows](https://www.oculus.com/setup/)
-* Oculus Rift Headset with two controllers
-This project will also work with other VR head set as it uses XR technology 
-for [HTC vive](https://forum.vive.com/topic/9605-unity-htc-vive-openxr-xr-interaction-toolkit-integration-problem/) as value is still working on supporting [XR technology](https://docs.unity3d.com/Manual/XR.html).
+### Requirments
 
 For Augmented Reality
 * Arcore Supported Mobile(e.g Note 10(Tested),S10 S20)
@@ -95,45 +85,10 @@ This project can also work on Arkit as we used AR foundation to make our project
 
 ### Installation
 
-For Virtual Reality
-
-1. Download Vr Oculus Rift Build
-2. Plugin your oculus headset and connect your two controllers make sure its conected properly
-3. maker Sure Oculus Software is downlaoded
-
 For Augmented Reality
 
 1. Download Ar Andriod Build
 2. Make sure your Mobile support [Google play services ARcore ](https://play.google.com/store/apps/details?id=com.google.ar.core&hl=en&gl=US)
 3. Give camera and microphone permission to the app.
 4. Click on the app and run.
-
-
-### Controllers
-[![VR Controller](images/image019.jpg)
-[![VR Controller](images/image020.jpg)
-[![AR Controller](images/image021.jpg)
-
-### Game Screenshot
-[![Screen Short](images/image027.jpg)
-### WorkFlow
-
-[![Work FLOW](images/workflow.png)
-
-
-
-
-### Architecture
-
-[![Architecture](images/Archetecture.png)
-
-
-
-
-
-
-
-
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
 
