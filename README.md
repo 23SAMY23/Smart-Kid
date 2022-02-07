@@ -35,10 +35,6 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#controllers">Controllers</a></li>
-    <li><a href="#game-screenshot">Screen Shot</a></li>
-    <li><a href="#workflow">WorkFlow</a></li>
-    <li><a href="#architecture">Architecture</a></li>
   </ol>
 </details>
 
@@ -74,8 +70,8 @@ Augmented Reality Screenshot
 <!-- GETTING STARTED -->
 ## Getting Started
 
-* [Smart Kid](https://github.com/23SAMY23/Meet-and-Greet-MR/tree/main/Meet%20%26%20Greet%20MR%20(AR))
-* [Final Apk](https://github.com/23SAMY23/Meet-and-Greet-MR/tree/main/Meet%20and%20greet%20MR%20(AR%20Andriod))
+* [Smart Kid](https://github.com/23SAMY23/Smart-Kid/tree/main/SmartKid)
+* [Final Apk](https://github.com/23SAMY23/Smart-Kid/tree/main/Final%20Apk)
 
 ### Requirments
 
